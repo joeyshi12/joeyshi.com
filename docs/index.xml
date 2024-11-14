@@ -16,6 +16,13 @@
       <description>This post goes over some of the mathematics involved in panning and zooming in graphical applications.&#xA;Points can be described in world space or view space. The world space is a linear basis that describes where objects positioned relative to the world while the view space is a basis that is used to describe points relative to the view that the user sees.&#xA;When panning or zooming in the view, a different translation and scale is being applied to view coordinates to determine what slice of the world should be drawn in the view.</description>
     </item>
     <item>
+      <title>Dragon curve visualization</title>
+      <link>https://joeyshi.xyz/posts/dragon_curve_visualization/</link>
+      <pubDate>Wed, 26 Jun 2024 23:28:21 -0700</pubDate>
+      <guid>https://joeyshi.xyz/posts/dragon_curve_visualization/</guid>
+      <description>The dragon curve is awesome :).&#xA;Prev Next </description>
+    </item>
+    <item>
       <title>Three.js Gallery</title>
       <link>https://joeyshi.xyz/projects/threejs_gallery/</link>
       <pubDate>Mon, 19 Feb 2024 12:49:16 -0800</pubDate>
